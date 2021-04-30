@@ -66,14 +66,14 @@
 			children = (
 				4A902616263B269800B3442F /* MyScrumdingerApp.swift */,
 				4A902618263B269800B3442F /* MeetingView.swift */,
-				4AE6161C263B314500E89988 /* Models */,
-				4A90261A263B269B00B3442F /* Assets.xcassets */,
-				4A90261F263B269B00B3442F /* Info.plist */,
-				4A90261C263B269B00B3442F /* Preview Content */,
 				4AE61621263B357A00E89988 /* CardView.swift */,
 				4AE61623263B521A00E89988 /* ScrumsView.swift */,
 				4AE61627263B638700E89988 /* EditView.swift */,
 				4AE61625263B582100E89988 /* DetailView.swift */,
+				4AE6161C263B314500E89988 /* Models */,
+				4A90261A263B269B00B3442F /* Assets.xcassets */,
+				4A90261F263B269B00B3442F /* Info.plist */,
+				4A90261C263B269B00B3442F /* Preview Content */,
 			);
 			path = MyScrumdinger;
 			sourceTree = "<group>";
